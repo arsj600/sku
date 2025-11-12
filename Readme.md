@@ -16,7 +16,7 @@ Tech Stack
 
 Setup Instructions
 Clone the repository
-git clone https://github.com/arsj600/stock-keep-unit-management.git
+git clone https://github.com/arsj600/sku.git
 
 Install dependencies
 npm install
